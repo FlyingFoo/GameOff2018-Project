@@ -1,2 +1,2 @@
-# GameOff2018-Project
+# Game Off 2018 - Project
 Git Game Off 2018
